@@ -1,0 +1,21 @@
+database name
+	as067159
+username
+	as067159
+Password
+	woods
+
+tables 
+	candidates
+		jessicarabbit	(value: 0)
+		donaldduck	(value: 0)
+		fritz		(value: 0)
+
+	people
+		idnumber	(value: 1048)
+		name		(value: ashley)
+		vote		(value: 0) //hasn't voted yet
+
+	visits
+		count		(value: 0)
+		item		(value hits)
